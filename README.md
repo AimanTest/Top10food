@@ -24,5 +24,5 @@ This project is a simple static website showcasing the top 10 foods in Malaysia.
 ### Running Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/top-10-foods-malaysia.git
+   git clone https://https://github.com/AimanTest/Top10food
    cd top-10-foods-malaysia
